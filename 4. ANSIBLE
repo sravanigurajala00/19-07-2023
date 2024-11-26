@@ -34,6 +34,10 @@ ANSIBLE:
 amazon-linux-extras install ansible2 -y
 yum install python3 python-dlevel python-pip -y
 vim /etc/ansible/hosts
+add worker node ips
+[dev]
+
+[test]
 
 TO ESTABLISH THE CONNECTION WE NEED TO COPY KEYS FOR ANSIBLE TO WORKER NODE.
 ssh-keygen -- > enter -- > enter -- > enter 
