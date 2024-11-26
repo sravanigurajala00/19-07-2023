@@ -1,6 +1,9 @@
 ANSIBLE: 
 ITs an free & open-source automation tool.
 what: software installation, server creation, deployment
+it is called as configuration management tool.
+configuration: software and hardware properties
+management: install, update, remove of packages
 
 year: 2012 
 invented by: maichel dehaan
